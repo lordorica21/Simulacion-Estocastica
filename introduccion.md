@@ -11,7 +11,7 @@
 # Números aleatorios
 
 ## ¿Qué es un número aleatorio?
-
+- Un valor generado sin un patrón predecible
 - Se elige en un intervalo de entre 0 y 1 de una distribución uniforme
 
 ## ¿Por qué son importantes los números aleatorios?
