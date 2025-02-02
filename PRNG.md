@@ -28,10 +28,10 @@ $$x\equiv y\ \text{mod}\ m$$
 
 $$
 \begin{aligned}
-2 &\equiv 5 \ \text{mod} \ 3 \\
--34 &\equiv 78 \ \text{mod} \ 14 \\
-78 &\equiv -34 \ \text{mod} \ 93 \\
-670 &\equiv 938 \ \text{mod} \ 134
+2 \equiv 5 \ \text{mod} \ 3 \\
+-34 \equiv 78 \ \text{mod} \ 14 \\
+78 \equiv -34 \ \text{mod} \ 93 \\
+670 \equiv 938 \ \text{mod} \ 134
 \end{aligned}
 $$
 
