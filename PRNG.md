@@ -35,6 +35,8 @@ $$
 \end{aligned}
 $$
 
+:pencil2: Propiedad
+
 $$x\equiv y\ \text{mod}\ m\ \iff m\mid x-y$$
 
 Si $x\equiv y\ \text{mod}\ m$, entonces:
