@@ -23,6 +23,8 @@ $$
 Si $x$ y $y$ tienen el mismo residuo módulo $m$ escribimos:
 $$x\equiv y\ \text{mod}\ m$$
 
+![Algoritmo División](img/algDiv.png)
+
 ### Artimética modular
 :bulb: Ejemplo
 
@@ -34,6 +36,8 @@ $$
 670 \equiv 938 \ \text{mod} \ 134
 \end{aligned}
 $$
+
+![Método Congruencial](img/metCongr.png)
 
 :pencil2: Propiedad
 
