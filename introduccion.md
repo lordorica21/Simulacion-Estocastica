@@ -14,7 +14,7 @@
 
 - Se elige en un intervalo de entre 0 y 1 de una distribución uniforme
 
-¿Por qué son importantes los números aleatorios?
+## ¿Por qué son importantes los números aleatorios?
 
 - Porque todas las técnicas se basan en ellos
 
