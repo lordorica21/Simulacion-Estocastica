@@ -47,7 +47,9 @@ Si $x\equiv y\ \text{mod}\ m$, entonces:
 
 ## Esquema general de un método congruencial
 Elegimos un entero no negativo $m$, una función $f:\mathbb{Z}\rightarrow\mathbb{Z}$ y un entero $x_0$, generamos una secuencia de números enteros en $[0,m)$ mediante el siguiente método inductivo:
+
 $$x_{i+1}=f(x_i)\ \text{mod}\ m$$
 
 Después, obtenemos números reales (realmente racionales) en $[0,1)$ tomando:
+
 $$u_i=\frac{x_i}{m}$$
