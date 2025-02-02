@@ -9,7 +9,7 @@ Por el algoritmo de la división sabemos que existen enteros únicos $q$ y $r$ t
 
 El entero $q$ lo llamamos el cociente y a $r$ el resto (o residuo) de la división de $a$ por $m$.
 
-<u>Ejemplo</u>
+:bulb: Ejemplo
 
 $$
 \begin{aligned}
@@ -24,7 +24,7 @@ Si $x$ y $y$ tienen el mismo residuo módulo $m$ escribimos:
 $$x\equiv y\ \text{mod}\ m$$
 
 ### Artimética modular
-<u>Ejemplo</u>
+:bulb: Ejemplo
 
 $$
 \begin{aligned}
