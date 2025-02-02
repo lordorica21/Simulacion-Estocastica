@@ -17,6 +17,7 @@
 ## ¿Por qué son importantes los números aleatorios?
 
 - Porque todas las técnicas se basan en ellos
+- Permiten modelar fenómenos inciertos y su variabilidad
 
 ## ¿Cómo obtenemos números aleatorios?
 
