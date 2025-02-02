@@ -12,13 +12,12 @@ El entero $q$ lo llamamos el cociente y a $r$ el resto (o residuo) de la divisi√
 <u>Ejemplo</u>
 
 $$
-2\equiv 5\ \text{mod}\ 3
-\\
-8\equiv 78\ \text{mod}\ 14
-\\
-92\equiv 278\ \text{mod}\ 93
-\\
-127\equiv -26137\ \text{mod}\ 134
+\begin{aligned}
+2 &\equiv 5 \ \text{mod} \ 3 \\
+8 &\equiv 78 \ \text{mod} \ 14 \\
+92 &\equiv 278 \ \text{mod} \ 93 \\
+127 &\equiv -26137 \ \text{mod} \ 134
+\end{aligned}
 $$
 
 Si $x$ y $y$ tienen el mismo residuo m√≥dulo $m$ escribimos:
@@ -28,13 +27,12 @@ $$x\equiv y\ \text{mod}\ m$$
 <u>Ejemplo</u>
 
 $$
-2\equiv 5\ \text{mod}\ 3
-\\
--34\equiv 78\ \text{mod}\ 14
-\\
-78\equiv -34\ \text{mod}\ 93
-\\
-670\equiv 938\ \text{mod}\ 134
+\begin{aligned}
+2 &\equiv 5 \ \text{mod} \ 3 \\
+-34 &\equiv 78 \ \text{mod} \ 14 \\
+78 &\equiv -34 \ \text{mod} \ 93 \\
+670 &\equiv 938 \ \text{mod} \ 134
+\end{aligned}
 $$
 
 $$x\equiv y\ \text{mod}\ m\ \iff m\mid x-y$$
